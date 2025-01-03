@@ -1,1 +1,3 @@
-Small Calculator to calculate how to reach Points goals in Pokemon Vortex
+Calculator to show Points targets in Pokemon Vortex
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LW337/VortexExpCalc/tree/main/HEAD)
